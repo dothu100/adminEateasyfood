@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208464464020",
+    "project_id": "eateasyfood-86863",
+    "storage_bucket": "eateasyfood-86863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208464464020:android:38a23139be6d1efa548c81",
+        "android_client_info": {
+          "package_name": "com.example.admineateasyfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqTMAJ8xpdIsnYc1tEPz60AVdYsIB3qnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
